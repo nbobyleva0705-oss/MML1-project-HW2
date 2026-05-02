@@ -1,0 +1,101 @@
+customer_id,customer_name,customer_type,store_focus,women_only,queer_friendly,sells_realistic,private_label_conflict,blocked_collection,newness_affinity,order_scale
+10872248,B2B Client 030,retailer,mixed,0,1,1,1,Lola Games Natural Wellness,0.5,medium
+13356886,B2B Client 003,wholesaler,women,1,0,0,1,Lola Games Marshmallow,0.36,medium
+13561597,B2B Client 020,retailer,mixed,0,0,0,0,,0.29,medium
+13999315,B2B Client 014,retailer,men,0,0,1,1,Lola games Diamond,0.28,large
+14265799,B2B Client 013,distributor,couples,0,1,1,0,,0.1,large
+14308421,B2B Client 095,wholesaler,women,1,0,0,1,Lola Games Homme,0.34,small
+15831819,B2B Client 046,wholesaler,women,0,0,1,0,,0.8,medium
+16150444,B2B Client 060,retailer,queer,0,1,0,0,,0.7,small
+17507864,B2B Client 093,wholesaler,couples,0,0,1,0,,0.37,medium
+18883684,B2B Client 099,retailer,men,0,0,1,1,Lola Games Homme,0.68,medium
+19335534,B2B Client 059,retailer,women,1,0,0,0,,0.73,medium
+19583482,B2B Client 079,retailer,couples,0,0,1,0,,0.34,small
+20576383,B2B Client 051,distributor,couples,0,0,1,1,Lola Games Marshmallow,0.49,small
+20709497,B2B Client 064,retailer,mixed,0,0,0,1,Lola Games Homme,0.8,small
+21668732,B2B Client 010,wholesaler,women,1,0,0,0,,0.21,small
+22448136,B2B Client 039,wholesaler,mixed,0,0,1,1,Lola games First Time,0.34,medium
+22575562,B2B Client 015,retailer,mixed,0,0,0,0,,0.59,medium
+22981052,B2B Client 041,retailer,couples,0,0,1,1,Lola Games Natural Wellness,0.82,medium
+23556182,B2B Client 066,retailer,men,0,0,1,1,Lola Games Pure Passion,0.73,medium
+23718431,B2B Client 038,retailer,queer,0,1,1,1,Lola Games Homme,0.96,small
+23756669,B2B Client 008,distributor,queer,0,1,0,0,,0.65,large
+24942603,B2B Client 002,distributor,mixed,0,0,1,1,Lola Games Natural Wellness,0.76,medium
+26753883,B2B Client 049,retailer,women,0,0,0,0,,0.03,small
+28728463,B2B Client 007,retailer,mixed,0,0,1,1,Lola Games Back Door Collection Black Edition,0.64,small
+30868105,B2B Client 035,distributor,couples,0,1,1,1,Lola Games Homme,0.57,small
+31429110,B2B Client 031,wholesaler,mixed,0,0,1,0,,0.78,large
+31831063,B2B Client 072,retailer,women,0,1,1,0,,0.15,medium
+31931511,B2B Client 085,retailer,women,1,0,0,0,,0.7,medium
+32969840,B2B Client 082,wholesaler,women,1,0,0,1,Lola games Love Story,0.47,medium
+35808537,B2B Client 058,retailer,queer,0,1,0,0,,0.32,medium
+36687537,B2B Client 022,retailer,men,0,0,1,1,Lola games Satisfaction,0.78,medium
+38119557,B2B Client 075,wholesaler,mixed,0,1,1,0,,0.47,small
+38317637,B2B Client 100,retailer,queer,0,1,1,0,,0.54,small
+38898923,B2B Client 036,distributor,women,1,1,1,0,,0.61,small
+39345092,B2B Client 016,retailer,men,0,0,1,0,,0.61,small
+39476249,B2B Client 091,retailer,women,1,0,0,1,Lola games Love Story,0.36,large
+39587039,B2B Client 026,wholesaler,mixed,0,0,1,0,,0.31,medium
+39958838,B2B Client 006,retailer,women,1,0,1,0,,0.55,large
+40587988,B2B Client 062,retailer,mixed,0,0,0,0,,0.55,medium
+40742311,B2B Client 094,wholesaler,mixed,0,0,1,1,Lola Games Back Door Collection Black Edition,0.6,small
+41227216,B2B Client 017,retailer,men,0,0,1,1,Lola Games Back Door Collection Black Edition,0.76,small
+41244663,B2B Client 065,retailer,women,0,0,1,1,Lola Games Back Door Collection Black Edition,0.24,medium
+42857966,B2B Client 084,retailer,men,0,0,1,0,,0.45,large
+42868828,B2B Client 005,retailer,couples,0,0,1,1,Lola games Diamond,0.69,large
+45503389,B2B Client 045,retailer,women,1,0,1,1,Lola Games Flow,0.66,large
+45833156,B2B Client 077,wholesaler,mixed,0,0,0,1,Lola Games Flow,0.69,medium
+45935572,B2B Client 098,retailer,men,0,0,1,0,,0.28,medium
+46231783,B2B Client 088,wholesaler,mixed,0,1,0,1,Lola Games Flow,0.52,large
+46913810,B2B Client 004,wholesaler,mixed,0,0,1,1,Lola games Spice It Up,0.64,small
+47295260,B2B Client 034,distributor,women,1,1,0,0,,0.82,medium
+47308985,B2B Client 068,distributor,women,1,0,1,1,Lola Games Pure Passion,0.38,large
+47338124,B2B Client 029,wholesaler,women,0,0,0,1,Lola games Spice It Up,0.68,small
+48840994,B2B Client 063,distributor,mixed,0,0,0,0,,0.36,small
+49349722,B2B Client 053,distributor,women,0,0,0,0,,0.57,medium
+52339391,B2B Client 096,retailer,women,1,0,0,0,,0.83,large
+53524491,B2B Client 092,wholesaler,men,0,0,1,0,,0.84,medium
+55176955,B2B Client 037,retailer,mixed,0,0,1,0,,0.23,medium
+55667651,B2B Client 033,retailer,women,1,1,0,0,,0.73,large
+56164955,B2B Client 043,retailer,mixed,0,1,0,1,Lola Games Flow,0.53,large
+57683626,B2B Client 074,distributor,women,0,0,1,0,,0.75,medium
+58181396,B2B Client 042,retailer,women,0,0,1,1,Lola games Love Story,0.31,small
+58537831,B2B Client 056,distributor,women,1,0,0,1,Lola games Spice It Up,0.59,small
+58966946,B2B Client 071,wholesaler,mixed,0,1,1,1,Lola games Satisfaction,0.54,large
+59684848,B2B Client 073,retailer,mixed,0,1,1,1,Lola games Diamond,0.37,medium
+60806024,B2B Client 050,retailer,women,0,0,0,0,,0.32,small
+60929647,B2B Client 087,wholesaler,men,0,0,1,0,,0.71,small
+60992979,B2B Client 040,retailer,couples,0,1,1,0,,0.45,small
+61019678,B2B Client 067,retailer,women,1,0,0,1,Lola Games Party Hard,0.88,small
+63843426,B2B Client 097,retailer,queer,0,1,0,1,Lola games First Time,0.21,medium
+66306997,B2B Client 025,retailer,women,1,0,0,0,,0.81,small
+66629388,B2B Client 012,distributor,women,1,1,1,0,,0.96,small
+66722344,B2B Client 032,retailer,women,1,0,1,0,,0.23,small
+70291817,B2B Client 027,retailer,men,0,0,1,0,,0.33,medium
+70855700,B2B Client 069,retailer,women,1,1,0,1,Lola games Satisfaction,0.46,small
+71662963,B2B Client 047,retailer,mixed,0,0,0,0,,0.24,small
+72043515,B2B Client 086,retailer,mixed,0,0,0,0,,0.54,large
+77827638,B2B Client 018,retailer,women,1,1,0,1,Lola games Satisfaction,0.66,medium
+81691040,B2B Client 083,retailer,couples,0,0,1,1,Lola Games Pure Passion,0.44,medium
+81971316,B2B Client 048,retailer,mixed,0,1,1,0,,0.12,medium
+83140807,B2B Client 024,retailer,women,1,0,0,0,,0.26,medium
+83197857,B2B Client 009,wholesaler,women,1,0,1,0,,0.71,small
+84093639,B2B Client 052,wholesaler,women,1,0,0,0,,0.88,medium
+84752529,B2B Client 090,retailer,women,1,0,1,1,Lola Games Flow,0.5,medium
+85329037,B2B Client 021,wholesaler,men,0,0,1,1,Lola games First Time,0.06,small
+87490893,B2B Client 057,retailer,mixed,0,1,0,1,Lola games Satisfaction,0.38,large
+89089901,B2B Client 028,retailer,men,0,0,1,0,,0.56,large
+89254563,B2B Client 011,retailer,women,1,0,0,1,Lola Games Flow,0.26,medium
+90801586,B2B Client 019,retailer,men,0,1,1,0,,0.79,large
+91030736,B2B Client 044,distributor,women,1,0,0,1,Lola games Love Story,0.25,large
+91756179,B2B Client 080,retailer,women,0,0,0,0,,0.2,small
+93016315,B2B Client 055,wholesaler,couples,0,1,1,0,,0.74,medium
+94374605,B2B Client 054,distributor,mixed,0,1,1,0,,0.56,medium
+95225343,B2B Client 081,distributor,women,0,1,0,0,,0.21,small
+95320121,B2B Client 070,distributor,mixed,0,1,1,1,Lola games Diamond,0.56,medium
+95822412,B2B Client 001,retailer,women,1,1,0,1,Lola games Love Story,0.36,medium
+95899313,B2B Client 089,distributor,mixed,0,0,0,0,,0.47,medium
+96977837,B2B Client 078,retailer,mixed,0,1,1,0,,0.4,large
+97226012,B2B Client 023,retailer,women,1,0,0,0,,0.39,medium
+98753260,B2B Client 061,retailer,mixed,0,0,1,0,,0.17,medium
+99949389,B2B Client 076,wholesaler,women,1,0,1,0,,0.84,large
