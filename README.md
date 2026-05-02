@@ -63,5 +63,5 @@ Notebooky jsou spustitelné od začátku do konce; všechny cesty jsou relativn�
 | Model | HitRate@10 | Precision@10 | Recall@10 |
 |-------|-----------|-------------|---------|
 | Popularity Baseline | 0.700 | 0.146 | 0.116 |
-| Popularity within Segment | 0.700 | 0.146 | 0.116 |
+| Popularity within store_focus | 0.710 | 0.141 | 0.107 |
 | Logistic Regression | **0.750** | **0.181** | **0.145** |
